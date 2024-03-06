@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-04T10:45:47 IST" name="IDEAL" finished-at="2024-03-04T10:46:23 IST" duration-ms="36435">
+    <groups>
+    </groups>
+    <test started-at="2024-03-04T10:45:47 IST" name="IDX_ADSEF" finished-at="2024-03-04T10:46:23 IST" duration-ms="36435">
+      <class name="com.qa.tests.IDX_ADSEF">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.IDX_ADSEF@223aa2f7]" started-at="2024-03-04T10:45:47 IST" name="setup" finished-at="2024-03-04T10:45:47 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Credentilas()[pri:1, instance:com.qa.tests.IDX_ADSEF@223aa2f7]" started-at="2024-03-04T10:45:47 IST" name="Credentilas" finished-at="2024-03-04T10:45:58 IST" duration-ms="11376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Credentilas -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.IDX_ADSEF@223aa2f7]" started-at="2024-03-04T10:45:58 IST" name="setup" finished-at="2024-03-04T10:45:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchReasonByClient()[pri:2, instance:com.qa.tests.IDX_ADSEF@223aa2f7]" started-at="2024-03-04T10:45:58 IST" name="SearchReasonByClient" finished-at="2024-03-04T10:46:02 IST" duration-ms="3430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchReasonByClient -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.IDX_ADSEF@223aa2f7]" started-at="2024-03-04T10:46:02 IST" name="setup" finished-at="2024-03-04T10:46:02 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Searchreasonbyinputparameter()[pri:3, instance:com.qa.tests.IDX_ADSEF@223aa2f7]" started-at="2024-03-04T10:46:02 IST" name="Searchreasonbyinputparameter" finished-at="2024-03-04T10:46:05 IST" duration-ms="3476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searchreasonbyinputparameter -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.IDX_ADSEF@223aa2f7]" started-at="2024-03-04T10:46:05 IST" name="setup" finished-at="2024-03-04T10:46:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CitizenSearch()[pri:4, instance:com.qa.tests.IDX_ADSEF@223aa2f7]" started-at="2024-03-04T10:46:05 IST" name="CitizenSearch" finished-at="2024-03-04T10:46:20 IST" duration-ms="15055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CitizenSearch -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.IDX_ADSEF@223aa2f7]" started-at="2024-03-04T10:46:20 IST" name="setup" finished-at="2024-03-04T10:46:20 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CitizenDetails()[pri:5, instance:com.qa.tests.IDX_ADSEF@223aa2f7]" started-at="2024-03-04T10:46:20 IST" name="CitizenDetails" finished-at="2024-03-04T10:46:22 IST" duration-ms="1713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CitizenDetails -->
+        <test-method signature="CitizenRetryAgency()[pri:6, instance:com.qa.tests.IDX_ADSEF@223aa2f7]" started-at="2024-03-04T10:46:22 IST" name="CitizenRetryAgency" finished-at="2024-03-04T10:46:23 IST" duration-ms="1285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CitizenRetryAgency -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.IDX_ADSEF@223aa2f7]" started-at="2024-03-04T10:46:22 IST" name="setup" finished-at="2024-03-04T10:46:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- com.qa.tests.IDX_ADSEF -->
+    </test> <!-- IDX_ADSEF -->
+  </suite> <!-- IDEAL -->
+</testng-results>
